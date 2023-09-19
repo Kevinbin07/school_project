@@ -57,7 +57,6 @@ header .menu a:hover {
 }
 
 .soortenSnoep {
-    /* text-align: center; */
     display: inline-block;
     margin-top: 4%;
     margin-left: 5%;
@@ -65,6 +64,7 @@ header .menu a:hover {
 }
 
 .snoep {
+    text-align: center;
     margin: 0 19px;
     display: inline-block;
     height: 300px;
