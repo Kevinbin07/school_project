@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("achtergrond.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    /* background-color: rgba(61, 61, 61, 0.7); */
+    background-color: rgba(104, 181, 245, 0.7);
+    color: #fff;
+    padding: 20px 0;
+}
+
+header .logo {
+    float: left;
+    margin-left: 20px;
+}
+
+header .social-icons {
+    float: right;
+    margin-right: 20px;
+}
+
+header .menu {
+    text-align: center;
+    text-indent: -30px;
+}
+
+header .menu a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 30px;
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+header .menu a:hover {
+    text-decoration: underline;
+    transform: scale(1.2);
+} 
+
+header .menu a:hover {
+    text-decoration: underline;
+}
