@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0bcc08;
+    background-image: url("tanis-case.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header {
+    background-color: rgba(104, 181, 245, 0.7);
+    color: #fff;
+    padding: 20px 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+ 
+header .logo {
+    float: left;
+    margin-left: 20px;
+}
+ 
+header .social-icons {
+    float: right;
+    margin-right: 20px;
+}
+ 
+header .menu {
+    text-align: center;
+    text-indent: -100px;
+}
+ 
+header .menu a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 50px;
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+ 
+header .menu a:hover {
+    text-decoration: underline;
+    transform: scale(1.2); /* Vergroten met 150% */
+}
+ 
+header .menu a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: rgba(11, 204, 8, 0.85);
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+.product-image {
+    margin-left: 25%;
+    width: 50%;
+    max-height: 400px;
+    margin-bottom: 20px;
+}
+
+.specifications {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.specifications ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.specifications li {
+    margin-bottom: 10px;
+}
+
+.footer {
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+    background-color: gray;
+    color: rgb(128, 128, 128);
+    text-align: center;
+    padding: 10px 0;
+    transition: bottom 0.3s;
+}
+.content {
+    text-align: center;
+    height: -50;
+}
