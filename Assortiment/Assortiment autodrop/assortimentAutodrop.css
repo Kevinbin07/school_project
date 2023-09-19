@@ -131,15 +131,71 @@ header .menu a:hover {
 }
 
 #pijlDiv {
+    height: 10px;
     display: inline-block;
     margin-top: -3%;
     margin-left: 12%;
-        
 }
 
 #pijl {
-    font-size: 50px;
+    font-size: 70px;
     width: 100px;
     text-align: center;
     position: 10 10 10 10;
+}
+
+#cad {
+    background-image: url("autodrop Cadillacs.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#cadText {
+    text-align: center;
+    position: relative;
+    left: 33%;
+    top: 47%;
+    width: 150px;
+}
+
+#opgevoerd {
+    background-image: url("autodrop Opgevoerd.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#opgevoerdText {
+    text-align: center;
+    position: relative;
+    left: 33%;
+    top: 47%;
+    width: 150px;
+}
+
+#totalloss {
+    background-image: url("autodrop Totalloss.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#totallossText {
+    text-align: center;
+    position: relative;
+    left: 33%;
+    top: 47%;
+    width: 150px;
+}
+
+#sexbeach {
+    background-image: url("autodrop Sexbeach.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#sexbeachText {
+    text-align: center;
+    position: relative;
+    left: 33%;
+    top: 47%;
+    width: 150px;
 }
