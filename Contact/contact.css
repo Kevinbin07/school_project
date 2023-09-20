@@ -127,6 +127,8 @@ header .menu a:hover {
 }
     #kaart{
         position: absolute;
-        top: 5%;
-        right: 64.5%;
+        top: -2%;
+        right: 62%;
+        height:280px;
+        width:350px;
     }
