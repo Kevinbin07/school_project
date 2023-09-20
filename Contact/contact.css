@@ -128,6 +128,7 @@ header .menu a:hover {
 
 #kaart{
     position: absolute;
+    margin-top: -6px;
     top: -2%;
     right: 62%;
     height:280px;
