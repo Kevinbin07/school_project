@@ -70,6 +70,13 @@ h1 {
     margin-bottom: 20px;
 }
 
+.lays-product-image {
+    margin-left: 25%;
+    width: 40%;
+    max-height: 400px;
+    margin-bottom: 20px;
+}
+
 .specifications {
     text-align: center;
     margin-top: 20px;
