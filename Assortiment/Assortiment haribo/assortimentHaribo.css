@@ -1,0 +1,201 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("achtergrond.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    /* background-color: rgba(61, 61, 61, 0.7); */
+    background-color: rgba(104, 181, 245, 0.7);
+    color: #fff;
+    padding: 20px 0;
+}
+
+header .logo {
+    float: left;
+    margin-left: 20px;
+}
+
+header .social-icons {
+    float: right;
+    margin-right: 20px;
+}
+
+header .menu {
+    text-align: center;
+    text-indent: -30px;
+}
+
+header .menu a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 30px;
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+header .menu a:hover {
+    text-decoration: underline;
+    transform: scale(1.2);
+} 
+
+header .menu a:hover {
+    text-decoration: underline;
+}
+
+.soortenSnoep {
+    display: inline-block;
+    margin-top: 4%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.snoep {
+    text-align: center;
+    margin: 0 19px;
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    background-color: rgba(134, 255, 140, 0.7);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    transition: transform 0.3s;
+}
+
+.snoep :hover {
+    transform: scale(1.2);
+}
+
+.snoepText {
+    margin-top: 40%;
+}
+
+#autodrop {
+    background-image: url("autdrop.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#autodropText {
+    text-align: center;
+    position: relative;
+    left: 30%;
+    top: 40%;
+    width: 160px;
+}
+
+#haribo {
+    background-image: url("haribo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#hariboText {
+    text-align: center;
+    position: relative;
+    left: 33%;
+    top: 5%;
+    width: 120px;
+}
+
+#lays {
+    background-image: url("lays.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#laysText {
+    text-align: center;
+    position: relative;
+    left: 33%;
+    top: 40%;
+    width: 100px;
+}
+
+#napoleon {
+    background-image: url("napoleon.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#napoleonText {
+    text-align: center;
+    position: relative;
+    left: 33%;
+    top: 47%;
+    width: 150px;
+}
+
+#pijlDiv {
+    height: 10px;
+    display: inline-block;
+    margin-top: -3%;
+    margin-left: 29%;
+}
+
+#pijl {
+    font-size: 70px;
+    width: 100px;
+    text-align: center;
+    position: 10 10 10 10;
+}
+
+#goudbeer {
+    background-image: url("haribo Goudbeer.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#goudbeerText {
+    text-align: center;
+    position: relative;
+    left: 33%;
+    top: 47%;
+    width: 150px;
+}
+
+#banaan {
+    background-image: url("haribo Banaan.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#banaanText {
+    text-align: center;
+    position: relative;
+    left: 33%;
+    top: 47%;
+    width: 150px;
+}
+
+#kikker {
+    background-image: url("haribo Kikker.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#kikkerText {
+    text-align: center;
+    position: relative;
+    left: 33%;
+    top: 47%;
+    width: 150px;
+}
+
+#sour {
+    background-image: url("haribo Sour.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#sourText {
+    text-align: center;
+    position: relative;
+    left: 33%;
+    top: 47%;
+    width: 150px;
+}
