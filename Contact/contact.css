@@ -125,10 +125,31 @@ header .menu a:hover {
     top: 30%;
     right: 20%;
 }
-    #kaart{
-        position: absolute;
-        top: -2%;
-        right: 62%;
-        height:280px;
-        width:350px;
-    }
+
+#kaart{
+    position: absolute;
+    top: -2%;
+    right: 62%;
+    height:280px;
+    width:350px;
+}
+
+.footer {
+    background-color: rgba(51, 51, 51, 0.7);
+    margin-top: 45.1%;
+    padding: -10px 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 31px;
+}
+
+#footerText {
+    color: #fff;
+    text-align: center;
+    position: relative;
+    left: 41%;
+    top: 25%;
+    height: 10px;
+    width: 400px;
+}    
