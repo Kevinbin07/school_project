@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url("achtergrond.jpg");
+    background-image: url("../Afbeeldingen/Algemeen/Achtergrond.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -85,7 +85,7 @@ header .menu a:hover {
 }
 
 #autodrop {
-    background-image: url("autdrop.png");
+    background-image: url("../Afbeeldingen/Assortiment/autdrop.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -99,7 +99,7 @@ header .menu a:hover {
 }
 
 #haribo {
-    background-image: url("haribo.png");
+    background-image: url("../Afbeeldingen/Assortiment/haribo.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -113,7 +113,7 @@ header .menu a:hover {
 }
 
 #lays {
-    background-image: url("lays.png");
+    background-image: url("../Afbeeldingen/Assortiment/lays.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -127,7 +127,7 @@ header .menu a:hover {
 }
 
 #napoleon {
-    background-image: url("napoleon.png");
+    background-image: url("../Afbeeldingen/Assortiment/napoleon.png");
     background-size: cover;
     background-repeat: no-repeat;
 }

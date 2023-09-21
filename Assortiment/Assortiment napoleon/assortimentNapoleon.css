@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url("achtergrond.jpg");
+    background-image: url("../../Afbeeldingen/Algemeen/Achtergrond.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -75,7 +75,7 @@ header .menu a:hover {
 }
 
 #autodrop {
-    background-image: url("autdrop.png");
+    background-image: url("../../Afbeeldingen/Assortiment/autdrop.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -89,7 +89,7 @@ header .menu a:hover {
 }
 
 #haribo {
-    background-image: url("haribo.png");
+    background-image: url("../../Afbeeldingen/Assortiment/haribo.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -103,7 +103,7 @@ header .menu a:hover {
 }
 
 #lays {
-    background-image: url("lays.png");
+    background-image: url("../../Afbeeldingen/Assortiment/lays.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -117,7 +117,7 @@ header .menu a:hover {
 }
 
 #napoleon {
-    background-image: url("napoleon.png");
+    background-image: url("../../Afbeeldingen/Assortiment/napoleon.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -145,7 +145,7 @@ header .menu a:hover {
 }
 
 #trop {
-    background-image: url("napoleon Trop.png");
+    background-image: url("../../Afbeeldingen/Assortiment/Napoleon/napoleon Trop.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -159,7 +159,7 @@ header .menu a:hover {
 }
 
 #citroen {
-    background-image: url("napoleon Citroen.png");
+    background-image: url("../../Afbeeldingen/Assortiment/Napoleon/napoleon Citroen.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -173,7 +173,7 @@ header .menu a:hover {
 }
 
 #cocktail {
-    background-image: url("napoleon Cocktail.png");
+    background-image: url("../../Afbeeldingen/Assortiment/Napoleon/napoleon Cocktail.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -187,7 +187,7 @@ header .menu a:hover {
 }
 
 #water {
-    background-image: url("napoleon Water.png");
+    background-image: url("../../Afbeeldingen/Assortiment/Napoleon/napoleon Water.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
